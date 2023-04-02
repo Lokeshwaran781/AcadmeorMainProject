@@ -1,3 +1,3 @@
 # AcadmeorMainProject
-WEATHER FORECASTING APP
+WEATHER FORECAST APP
 created by Lokeshwaran M S
